@@ -16,24 +16,24 @@ namespace AlarmApplication
         public Main()
         {
             InitializeComponent();
-            this.Text = "Alarm " + DateTime.Now.ToLongTimeString();
         }
 
         SoundPlayer sp;
 
+        private void timer_currenttime_Tick(object sender, EventArgs e)
+        {
+            string current_time = DateTime.Now.ToLongTimeString();
+            tb_currenttime.Text = current_time;
+            Main.ActiveForm.Text = "Alarm " + DateTime.Now.ToLongTimeString();
+        }
+
         private void Main_Load(object sender, EventArgs e)
         {
             timer_currenttime.Start();
-            tb_alarmtime.Text = DateTime.Now.ToLongTimeString();
+            tb_alarmtime.Text = DateTime.Now.ToLongTimeString(); 
         }
 
 
-        private void timer_currenttime_Tick(object sender, EventArgs e)
-        {
-            tb_currenttime.Text = DateTime.Now.ToLongTimeString();
-        }
-
-        
         private void timer_alarm_Tick(object sender, EventArgs e)
         {
             if (tb_currenttime.Text == tb_alarmtime.Text)
