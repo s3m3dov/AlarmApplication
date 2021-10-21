@@ -18,3 +18,13 @@ C:\Users\Home\Downloads\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplica
 C:\Users\Home\Downloads\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csproj.CoreCompileInputs.cache
 C:\Users\Home\Downloads\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.exe
 C:\Users\Home\Downloads\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.pdb
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.exe.config
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.exe
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\bin\Debug\AlarmApplication.pdb
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csprojAssemblyReference.cache
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.Main.resources
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.Properties.Resources.resources
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csproj.GenerateResource.cache
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.csproj.CoreCompileInputs.cache
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.exe
+D:\HCache\1_Projects\Projects_VS\AlarmApplication\AlarmApplication\obj\Debug\AlarmApplication.pdb
